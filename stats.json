@@ -1,0 +1,1233 @@
+{
+    "users": {
+        "1387706327": {
+            "name": "Иван",
+            "username": "Sofaexpert000",
+            "last_seen": "2026-02-17 10:20:41.871270",
+            "reminder_time": "20:00"
+        },
+        "1334250266": {
+            "name": "Yoroi",
+            "username": "Yoroika",
+            "last_seen": "2026-02-14 15:37:43.069540",
+            "reminder_time": null
+        },
+        "6974142128": {
+            "name": "Султан Султан",
+            "username": null,
+            "last_seen": "2026-02-12 22:53:29.105739",
+            "reminder_time": null
+        },
+        "5363889969": {
+            "name": "Нектарин Владимирович",
+            "username": "stay0down",
+            "last_seen": "2026-02-14 00:16:11.546232",
+            "reminder_time": null
+        },
+        "2106188817": {
+            "name": "Антон Антонов",
+            "username": "Anton17031987",
+            "last_seen": "2026-02-12 22:23:43.766932",
+            "reminder_time": null
+        },
+        "5124801572": {
+            "name": "Александр",
+            "username": "kryga1991",
+            "last_seen": "2026-02-13 14:06:24.575578",
+            "reminder_time": null
+        },
+        "1658501183": {
+            "name": "bembembl4",
+            "username": "Bembembl4",
+            "last_seen": "2026-02-13 14:08:06.631087",
+            "reminder_time": null
+        },
+        "745112949": {
+            "name": "Михаил",
+            "username": "onomatofobia",
+            "last_seen": "2026-02-16 22:27:20.276391",
+            "reminder_time": null
+        },
+        "6069443540": {
+            "name": "Ирина Бонд",
+            "username": "BondIrina7",
+            "last_seen": "2026-02-13 15:20:55.368827",
+            "reminder_time": null
+        },
+        "2138177820": {
+            "name": "Ш",
+            "username": "olezhaaa1",
+            "last_seen": "2026-02-13 18:21:26.877951",
+            "reminder_time": null
+        },
+        "5133837954": {
+            "name": "Daniil",
+            "username": "danissimo_777",
+            "last_seen": "2026-02-13 23:47:35.541421",
+            "reminder_time": null
+        },
+        "772833135": {
+            "name": "Рэм",
+            "username": "wordrem",
+            "last_seen": "2026-02-14 00:16:24.244591",
+            "reminder_time": null
+        },
+        "87630662": {
+            "name": "Dmitry Makarov",
+            "username": "makarou_dmitry",
+            "last_seen": "2026-02-14 06:37:20.924497",
+            "reminder_time": null
+        },
+        "8327886959": {
+            "name": "Rattlesnake Hiss",
+            "username": "RattleSnakeHiss",
+            "last_seen": "2026-02-15 23:35:29.857134",
+            "reminder_time": null
+        },
+        "2081822697": {
+            "name": "Максим Лацыгин",
+            "username": "Spokoinyi22",
+            "last_seen": "2026-02-15 23:42:43.431962",
+            "reminder_time": null
+        },
+        "1119336350": {
+            "name": "Алексей Кудряшов",
+            "username": "Hdidbrfr",
+            "last_seen": "2026-02-18 01:05:45.597796",
+            "reminder_time": null
+        },
+        "1074467622": {
+            "name": "Раф 🏐",
+            "username": "C_hill_guy",
+            "last_seen": "2026-02-16 00:17:08.476093",
+            "reminder_time": null
+        },
+        "555488201": {
+            "name": "Владислав Булатов",
+            "username": "Wlad_Bulat",
+            "last_seen": "2026-02-16 23:01:53.623386",
+            "reminder_time": null
+        },
+        "1762454829": {
+            "name": "Mikhail Kazakov",
+            "username": "Misha0993",
+            "last_seen": "2026-02-17 09:19:56.690544",
+            "reminder_time": null
+        },
+        "1138305816": {
+            "name": "Vlad",
+            "username": "quarantetrois43",
+            "last_seen": "2026-02-17 09:29:47.361727",
+            "reminder_time": null
+        },
+        "1141771914": {
+            "name": "Димон SURU",
+            "username": "surujke",
+            "last_seen": "2026-02-19 10:28:42.996558",
+            "reminder_time": null
+        }
+    },
+    "stats": {
+        "1387706327": {
+            "2026-02-12": {
+                "Приседания": 30,
+                "Подтягивания": 25,
+                "Отжимания": 50,
+                "Пресс": 25
+            },
+            "2026-02-13": {
+                "Приседания": 44,
+                "Подтягивания": 25,
+                "Отжимания": 90,
+                "Пресс": 51,
+                "Чтение": 20,
+                "Выпады": 21
+            },
+            "2026-02-14": {
+                "Приседания": 2,
+                "Подтягивания": 101,
+                "Отжимания": 101,
+                "Пресс": 77,
+                "Выпады": 9,
+                "Чтение": 7
+            },
+            "2026-02-15": {
+                "Приседания": 63,
+                "Подтягивания": 50,
+                "Отжимания": 100,
+                "Пресс": 50,
+                "Выпады": 40,
+                "Чтение": 61
+            },
+            "2026-02-16": {
+                "Приседания": 94,
+                "Подтягивания": 50,
+                "Отжимания": 100,
+                "Пресс": 70,
+                "Выпады": 100,
+                "Чтение": 50
+            },
+            "2026-02-17": {
+                "Приседания": 91,
+                "Подтягивания": 75,
+                "Отжимания": 130,
+                "Пресс": 90,
+                "Выпады": 120,
+                "Чтение": 50
+            },
+            "2026-02-18": {
+                "Приседания": 93,
+                "Подтягивания": 76,
+                "Отжимания": 150,
+                "Пресс": 75,
+                "Выпады": 90,
+                "Чтение": 35
+            },
+            "2026-02-19": {
+                "Приседания": 1,
+                "Подтягивания": 0,
+                "Отжимания": 0,
+                "Пресс": 0,
+                "Выпады": 0,
+                "Чтение": 0
+            }
+        },
+        "6974142128": {
+            "2026-02-12": {
+                "Приседания": 0,
+                "Подтягивания": 0,
+                "Отжимания": 45,
+                "Пресс": 23
+            },
+            "2026-02-13": {
+                "Приседания": 0,
+                "Подтягивания": 0,
+                "Отжимания": 25,
+                "Пресс": 0
+            },
+            "2026-02-14": {
+                "Приседания": 0,
+                "Подтягивания": 0,
+                "Отжимания": 55,
+                "Пресс": 30,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-15": {
+                "Приседания": 0,
+                "Подтягивания": 0,
+                "Отжимания": 25,
+                "Пресс": 40,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-16": {
+                "Приседания": 0,
+                "Подтягивания": 0,
+                "Отжимания": 30,
+                "Пресс": 50,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-17": {
+                "Приседания": 30,
+                "Подтягивания": 0,
+                "Отжимания": 25,
+                "Пресс": 0,
+                "Выпады": 27,
+                "Чтение": 0
+            },
+            "2026-02-18": {
+                "Приседания": 31,
+                "Подтягивания": 0,
+                "Отжимания": 25,
+                "Пресс": 0,
+                "Выпады": 27,
+                "Чтение": 0
+            },
+            "2026-02-19": {
+                "Приседания": 36,
+                "Подтягивания": 0,
+                "Отжимания": 24,
+                "Пресс": 0,
+                "Выпады": 36,
+                "Чтение": 0
+            }
+        },
+        "1334250266": {
+            "2026-02-13": {
+                "Приседания": 180,
+                "Подтягивания": 68,
+                "Отжимания": 54,
+                "Пресс": 69,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-14": {
+                "Приседания": 139,
+                "Подтягивания": 24,
+                "Отжимания": 18,
+                "Пресс": 26,
+                "Выпады": 0,
+                "Чтение": 15
+            },
+            "2026-02-15": {
+                "Приседания": 101,
+                "Подтягивания": 26,
+                "Отжимания": 19,
+                "Пресс": 26,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-16": {
+                "Приседания": 40,
+                "Подтягивания": 20,
+                "Отжимания": 18,
+                "Пресс": 26,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-17": {
+                "Приседания": 40,
+                "Подтягивания": 23,
+                "Отжимания": 32,
+                "Пресс": 70,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-18": {
+                "Приседания": 40,
+                "Подтягивания": 20,
+                "Отжимания": 20,
+                "Пресс": 31,
+                "Выпады": 0,
+                "Чтение": 0
+            }
+        },
+        "5363889969": {
+            "2026-02-13": {
+                "Приседания": 50,
+                "Подтягивания": 0,
+                "Отжимания": 30,
+                "Пресс": 0,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-14": {
+                "Приседания": 50,
+                "Подтягивания": 0,
+                "Отжимания": 20,
+                "Пресс": 0,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-15": {
+                "Приседания": 50,
+                "Подтягивания": 38,
+                "Отжимания": 110,
+                "Пресс": 100,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-16": {
+                "Приседания": 80,
+                "Подтягивания": 0,
+                "Отжимания": 60,
+                "Пресс": 90,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-17": {
+                "Приседания": 50,
+                "Подтягивания": 0,
+                "Отжимания": 50,
+                "Пресс": 0,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-18": {
+                "Приседания": 50,
+                "Подтягивания": 0,
+                "Отжимания": 100,
+                "Пресс": 70,
+                "Выпады": 0,
+                "Чтение": 0
+            }
+        },
+        "5133837954": {
+            "2026-02-14": {
+                "Приседания": 20,
+                "Подтягивания": 0,
+                "Отжимания": 15,
+                "Пресс": 0,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-18": {
+                "Приседания": 0,
+                "Подтягивания": 0,
+                "Отжимания": 0,
+                "Пресс": 0,
+                "Выпады": 15,
+                "Чтение": 0
+            }
+        },
+        "87630662": {
+            "2026-02-16": {
+                "Приседания": 50,
+                "Подтягивания": 0,
+                "Отжимания": 30,
+                "Пресс": 0,
+                "Выпады": 0,
+                "Чтение": 0
+            },
+            "2026-02-18": {
+                "Приседания": 0,
+                "Подтягивания": 0,
+                "Отжимания": 70,
+                "Пресс": 0,
+                "Выпады": 0,
+                "Чтение": 0
+            }
+        },
+        "1119336350": {
+            "2026-02-18": {
+                "Приседания": 0,
+                "Подтягивания": 0,
+                "Отжимания": 0,
+                "Пресс": 0,
+                "Выпады": 18,
+                "Чтение": 0
+            }
+        },
+        "8327886959": {
+            "2026-02-18": {
+                "Приседания": 0,
+                "Подтягивания": 0,
+                "Отжимания": 0,
+                "Пресс": 0,
+                "Выпады": 0,
+                "Чтение": 1
+            }
+        }
+    },
+    "characters": {
+        "1387706327": {
+            "race": "tauren",
+            "class": "mage",
+            "gender": "male",
+            "name": "Великий SofaExpert",
+            "xp": 43885,
+            "level": 23,
+            "achievements": [
+                "pullups_25",
+                "days_1",
+                "daily_pullups_20",
+                "pushups_50",
+                "total_100",
+                "daily_pushups_30",
+                "daily_pushups_50",
+                "combo_1",
+                "level_5",
+                "referral_1",
+                "squats_50",
+                "league_first_season",
+                "league_top10",
+                "league_top3",
+                "league_champion",
+                "level_10",
+                "referral_5",
+                "pullups_50",
+                "pushups_100",
+                "abs_50",
+                "read_10",
+                "pullups_100",
+                "lunges_25",
+                "days_3",
+                "streak_3",
+                "daily_pullups_50",
+                "abs_100",
+                "total_500",
+                "level_15",
+                "daily_pullups_100",
+                "daily_pushups_100",
+                "read_50",
+                "daily_read_30",
+                "squats_100",
+                "daily_squats_50",
+                "lunges_50",
+                "daily_lunges_30",
+                "pullups_200",
+                "pushups_250",
+                "total_1000",
+                "streak_5",
+                "quests_1",
+                "quests_10",
+                "read_100",
+                "abs_250",
+                "lunges_100",
+                "daily_lunges_100",
+                "quests_daily_all",
+                "quests_hard_1",
+                "combo_5",
+                "level_20",
+                "lunges_200",
+                "squats_250",
+                "pushups_500",
+                "combo_reader_7",
+                "days_7",
+                "streak_7",
+                "lunges_350",
+                "pullups_350",
+                "total_2500",
+                "quests_25"
+            ],
+            "combo_count": 7,
+            "current_streak": 8,
+            "best_streak": 8,
+            "last_training_date": "2026-02-19",
+            "last_penalty_check": "2026-02-17",
+            "total_penalty_xp": 0,
+            "warnings_sent": [],
+            "created_at": "2026-02-12 18:56:14.881162",
+            "daily_quests": {
+                "lunges_15": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "boss_100": {
+                    "completed": true,
+                    "progress": 5193,
+                    "claimed": false
+                },
+                "pullups_15": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "balanced_all": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                }
+            },
+            "quests_date": "2026-02-19",
+            "sets_today": {
+                "Приседания": 1
+            },
+            "quests_completed_total": 28,
+            "last_combo_date": "2026-02-18",
+            "referrals_count": 9,
+            "is_trusted": false,
+            "is_premium": true,
+            "league_titles": [
+                {
+                    "title": "💎 Меценат",
+                    "season": "Вечность",
+                    "date": "2026-02-13"
+                },
+                {
+                    "title": "🏆 Чемпион сезона",
+                    "date": "2026-02-18",
+                    "given_by": "admin",
+                    "season": "Админ"
+                }
+            ],
+            "quests_hard_completed": 4,
+            "quests_legendary_completed": 0,
+            "quests_all_completed_days": 3,
+            "achievements_today": [
+                "combo_reader_7",
+                "days_7",
+                "streak_7",
+                "lunges_350",
+                "pullups_350",
+                "total_2500",
+                "quests_25"
+            ],
+            "achievements_date": "2026-02-18",
+            "all_quests_bonus_date": "2026-02-18",
+            "story_xp_today": 350,
+            "story_xp_date": "2026-02-18",
+            "special_titles": [
+                {
+                    "title": "👑 Основатель",
+                    "date": "2026-02-18",
+                    "given_by": "admin"
+                }
+            ],
+            "reroll_available": true,
+            "reroll_used": false
+        },
+        "6974142128": {
+            "race": "human",
+            "class": "warrior",
+            "gender": "male",
+            "name": "Огненный ДРАКОН",
+            "xp": 4230,
+            "level": 7,
+            "achievements": [
+                "days_1",
+                "daily_pushups_30",
+                "pushups_50",
+                "pushups_100",
+                "total_100",
+                "days_3",
+                "streak_3",
+                "daily_pushups_50",
+                "abs_50",
+                "level_5",
+                "streak_5",
+                "abs_100",
+                "lunges_25",
+                "combo_reader_7",
+                "days_7",
+                "streak_7",
+                "squats_50",
+                "lunges_50",
+                "pushups_250",
+                "total_500",
+                "daily_lunges_30"
+            ],
+            "combo_count": 0,
+            "current_streak": 8,
+            "best_streak": 8,
+            "last_training_date": "2026-02-19",
+            "last_penalty_check": "2026-02-12",
+            "total_penalty_xp": 0,
+            "warnings_sent": [
+                "2026-02-12",
+                "2026-02-16"
+            ],
+            "created_at": "2026-02-12 21:16:07.409944",
+            "daily_quests": {
+                "read_10": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "lunch_break": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "streak_keep_3": {
+                    "completed": true,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "midnight_grind": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                }
+            },
+            "quests_date": "2026-02-19",
+            "sets_today": {
+                "Отжимания": 1,
+                "Приседания": 1,
+                "Выпады": 1
+            },
+            "is_trusted": false,
+            "achievements_today": [
+                "pushups_250",
+                "total_500",
+                "daily_lunges_30"
+            ],
+            "achievements_date": "2026-02-19",
+            "reroll_available": true,
+            "reroll_used": false
+        },
+        "5363889969": {
+            "race": "orc",
+            "class": "mage",
+            "gender": "male",
+            "name": "stay",
+            "xp": 16444,
+            "level": 14,
+            "achievements": [
+                "squats_50",
+                "days_1",
+                "daily_squats_50",
+                "daily_pushups_30",
+                "referral_1",
+                "league_first_season",
+                "league_top10",
+                "league_top3",
+                "league_champion",
+                "level_5",
+                "pushups_50",
+                "total_100",
+                "squats_100",
+                "days_3",
+                "streak_3",
+                "level_10",
+                "pushups_100",
+                "daily_pushups_50",
+                "abs_50",
+                "abs_100",
+                "daily_abs_100",
+                "combo_1",
+                "daily_pushups_100",
+                "pullups_25",
+                "daily_pullups_20",
+                "quests_1",
+                "total_500",
+                "quests_hard_1",
+                "quests_10",
+                "streak_5",
+                "squats_250",
+                "pushups_250",
+                "abs_250",
+                "quests_daily_all"
+            ],
+            "combo_count": 1,
+            "current_streak": 6,
+            "best_streak": 6,
+            "last_training_date": "2026-02-18",
+            "last_penalty_check": "2026-02-14",
+            "total_penalty_xp": 0,
+            "warnings_sent": [
+                "2026-02-12",
+                "2026-02-13"
+            ],
+            "created_at": "2026-02-12 21:55:05.516140",
+            "daily_quests": {
+                "pullups_5": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "boss_100": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "pullups_15": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "variety_4": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                }
+            },
+            "quests_date": "2026-02-19",
+            "sets_today": {},
+            "referrals_count": 3,
+            "is_premium": true,
+            "league_titles": [
+                {
+                    "title": "💎 Меценат",
+                    "season": "Вечность",
+                    "date": "2026-02-14"
+                },
+                {
+                    "title": "🥉 Бронзовый призёр",
+                    "date": "2026-02-18",
+                    "given_by": "admin",
+                    "season": "Админ"
+                }
+            ],
+            "quests_completed_total": 16,
+            "last_combo_date": "2026-02-15",
+            "quests_hard_completed": 2,
+            "quests_legendary_completed": 0,
+            "achievements_today": [
+                "abs_250",
+                "quests_daily_all"
+            ],
+            "achievements_date": "2026-02-18",
+            "reroll_available": true,
+            "reroll_used": false,
+            "all_quests_bonus_date": "2026-02-18",
+            "quests_all_completed_days": 1
+        },
+        "2106188817": {
+            "race": "orc",
+            "class": "rogue",
+            "gender": "male",
+            "name": "AND",
+            "xp": 0,
+            "level": 1,
+            "achievements": [],
+            "combo_count": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "last_training_date": null,
+            "last_penalty_check": "2026-02-12",
+            "total_penalty_xp": 0,
+            "warnings_sent": [],
+            "created_at": "2026-02-12 22:24:53.055287",
+            "daily_quests": {},
+            "quests_date": null,
+            "sets_today": {},
+            "reroll_available": true,
+            "reroll_used": false
+        },
+        "1334250266": {
+            "race": "elf",
+            "class": "rogue",
+            "gender": "female",
+            "name": "Yoroi",
+            "xp": 16729,
+            "level": 14,
+            "achievements": [
+                "squats_50",
+                "squats_100",
+                "pullups_25",
+                "pullups_50",
+                "pushups_50",
+                "abs_50",
+                "total_100",
+                "days_1",
+                "level_5",
+                "daily_squats_50",
+                "daily_squats_100",
+                "daily_pullups_20",
+                "daily_pullups_50",
+                "daily_pushups_30",
+                "daily_pushups_50",
+                "combo_1",
+                "read_10",
+                "squats_250",
+                "total_500",
+                "days_3",
+                "streak_3",
+                "level_10",
+                "abs_100",
+                "pullups_100",
+                "referral_1",
+                "quests_1",
+                "pushups_100",
+                "streak_5",
+                "squats_500",
+                "combo_5",
+                "total_1000",
+                "league_first_season",
+                "league_top10",
+                "league_top3",
+                "league_champion",
+                "quests_10",
+                "quests_hard_1",
+                "quests_daily_all"
+            ],
+            "combo_count": 6,
+            "current_streak": 6,
+            "best_streak": 6,
+            "last_training_date": "2026-02-18",
+            "last_penalty_check": "2026-02-14",
+            "total_penalty_xp": 0,
+            "warnings_sent": [],
+            "created_at": "2026-02-13 22:58:59.312641",
+            "daily_quests": {
+                "first_blood": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "streak_keep_3": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "abs_70": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "pushups_200": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                }
+            },
+            "quests_date": "2026-02-19",
+            "is_trusted": true,
+            "sets_today": {},
+            "last_combo_date": "2026-02-18",
+            "quests_completed_total": 11,
+            "referrals_count": 1,
+            "quests_hard_completed": 1,
+            "quests_legendary_completed": 0,
+            "achievements_today": [
+                "league_first_season",
+                "league_top10",
+                "league_top3",
+                "league_champion",
+                "quests_10",
+                "quests_hard_1",
+                "quests_daily_all"
+            ],
+            "achievements_date": "2026-02-18",
+            "story_xp_today": 250,
+            "story_xp_date": "2026-02-17",
+            "league_titles": [
+                {
+                    "title": "🥈 Серебряный призёр",
+                    "date": "2026-02-18",
+                    "given_by": "admin",
+                    "season": "Админ"
+                }
+            ],
+            "reroll_available": true,
+            "reroll_used": false,
+            "all_quests_bonus_date": "2026-02-18",
+            "quests_all_completed_days": 1
+        },
+        "5133837954": {
+            "race": "human",
+            "class": "mage",
+            "gender": "male",
+            "name": "eafp",
+            "xp": 3142,
+            "level": 6,
+            "achievements": [
+                "days_1",
+                "league_first_season",
+                "league_top10",
+                "league_top3",
+                "league_champion"
+            ],
+            "combo_count": 0,
+            "current_streak": 0,
+            "best_streak": 1,
+            "last_training_date": "2026-02-18",
+            "last_penalty_check": "2026-02-13",
+            "total_penalty_xp": 43,
+            "warnings_sent": [
+                "2026-02-15",
+                "2026-02-16",
+                "2026-02-17"
+            ],
+            "created_at": "2026-02-13 23:49:19.064525",
+            "daily_quests": {},
+            "quests_date": null,
+            "sets_today": {},
+            "is_premium": true,
+            "league_titles": [
+                {
+                    "title": "💎 Меценат",
+                    "season": "Вечность",
+                    "date": "2026-02-14"
+                }
+            ],
+            "achievements_today": [
+                "days_1",
+                "league_first_season",
+                "league_top10",
+                "league_top3",
+                "league_champion"
+            ],
+            "achievements_date": "2026-02-18",
+            "reroll_available": true,
+            "reroll_used": false
+        },
+        "772833135": {
+            "race": "dwarf",
+            "class": "mage",
+            "gender": "male",
+            "name": "Рэм",
+            "xp": 0,
+            "level": 1,
+            "achievements": [],
+            "combo_count": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "last_training_date": null,
+            "last_penalty_check": "2026-02-14",
+            "total_penalty_xp": 0,
+            "warnings_sent": [],
+            "created_at": "2026-02-14 00:16:58.021640",
+            "daily_quests": {},
+            "quests_date": null,
+            "sets_today": {},
+            "reroll_available": true,
+            "reroll_used": false
+        },
+        "87630662": {
+            "race": "tauren",
+            "class": "mage",
+            "gender": "male",
+            "name": "mUUUtrophanio",
+            "xp": 909,
+            "level": 3,
+            "achievements": [
+                "squats_50",
+                "days_1",
+                "daily_squats_50",
+                "daily_pushups_30",
+                "pushups_50",
+                "total_100",
+                "daily_pushups_50",
+                "pushups_100"
+            ],
+            "combo_count": 0,
+            "current_streak": 1,
+            "best_streak": 1,
+            "last_training_date": "2026-02-18",
+            "last_penalty_check": "2026-02-14",
+            "total_penalty_xp": 9,
+            "warnings_sent": [
+                "2026-02-14",
+                "2026-02-15",
+                "2026-02-16",
+                "2026-02-17"
+            ],
+            "created_at": "2026-02-14 06:42:56.167879",
+            "daily_quests": {
+                "variety_2": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "variety_3": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "read_25": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "total_200": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                }
+            },
+            "quests_date": "2026-02-19",
+            "sets_today": {},
+            "achievements_today": [
+                "pushups_50",
+                "total_100",
+                "daily_pushups_50",
+                "pushups_100"
+            ],
+            "achievements_date": "2026-02-18",
+            "story_xp_today": 150,
+            "story_xp_date": "2026-02-16",
+            "reroll_available": true,
+            "reroll_used": false
+        },
+        "8327886959": {
+            "race": "elf",
+            "class": "mage",
+            "gender": "male",
+            "name": "Tyu",
+            "xp": 67,
+            "level": 1,
+            "achievements": [
+                "days_1",
+                "quests_1"
+            ],
+            "combo_count": 0,
+            "current_streak": 1,
+            "best_streak": 1,
+            "last_training_date": "2026-02-18",
+            "last_penalty_check": "2026-02-15",
+            "total_penalty_xp": 0,
+            "warnings_sent": [
+                "2026-02-16",
+                "2026-02-17"
+            ],
+            "created_at": "2026-02-15 23:35:40.455242",
+            "sets_today": {},
+            "daily_quests": {},
+            "quests_date": null,
+            "reroll_available": true,
+            "reroll_used": false,
+            "deletion_warning_sent": true,
+            "deletion_warning_date": "2026-02-18",
+            "achievements_today": [
+                "days_1",
+                "quests_1"
+            ],
+            "achievements_date": "2026-02-18",
+            "quests_completed_total": 1,
+            "quests_hard_completed": 0,
+            "quests_legendary_completed": 0
+        },
+        "1074467622": {
+            "race": "human",
+            "class": "rogue",
+            "gender": "male",
+            "name": "C_hill_guy",
+            "xp": 0,
+            "level": 1,
+            "achievements": [],
+            "combo_count": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "last_training_date": null,
+            "last_penalty_check": "2026-02-16",
+            "total_penalty_xp": 0,
+            "warnings_sent": [
+                "2026-02-16",
+                "2026-02-17",
+                "2026-02-18"
+            ],
+            "created_at": "2026-02-16 00:17:41.983645",
+            "sets_today": {},
+            "daily_quests": {},
+            "quests_date": null,
+            "reroll_available": true,
+            "reroll_used": false,
+            "deletion_warning_sent": true,
+            "deletion_warning_date": "2026-02-19"
+        },
+        "555488201": {
+            "race": "undead",
+            "class": "rogue",
+            "gender": "male",
+            "name": "Nuclear",
+            "xp": 0,
+            "level": 1,
+            "achievements": [],
+            "combo_count": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "last_training_date": null,
+            "last_penalty_check": "2026-02-16",
+            "total_penalty_xp": 0,
+            "warnings_sent": [
+                "2026-02-17",
+                "2026-02-18"
+            ],
+            "created_at": "2026-02-16 23:02:20.233801",
+            "sets_today": {},
+            "daily_quests": {},
+            "quests_date": null,
+            "reroll_available": true,
+            "reroll_used": false,
+            "deletion_warning_sent": true,
+            "deletion_warning_date": "2026-02-19"
+        },
+        "1762454829": {
+            "race": "human",
+            "class": "paladin",
+            "gender": "male",
+            "name": "XsAiDaN",
+            "xp": 0,
+            "level": 1,
+            "achievements": [],
+            "combo_count": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "last_training_date": null,
+            "last_penalty_check": "2026-02-17",
+            "total_penalty_xp": 0,
+            "warnings_sent": [
+                "2026-02-17",
+                "2026-02-18"
+            ],
+            "created_at": "2026-02-17 09:20:31.357504",
+            "sets_today": {},
+            "daily_quests": {},
+            "quests_date": null,
+            "reroll_available": true,
+            "reroll_used": false
+        },
+        "1138305816": {
+            "race": "human",
+            "class": "mage",
+            "gender": "male",
+            "name": "Эрик Седовласый",
+            "xp": 0,
+            "level": 1,
+            "achievements": [],
+            "combo_count": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "last_training_date": null,
+            "last_penalty_check": "2026-02-17",
+            "total_penalty_xp": 0,
+            "warnings_sent": [
+                "2026-02-17",
+                "2026-02-18"
+            ],
+            "created_at": "2026-02-17 09:30:40.763711",
+            "sets_today": {},
+            "daily_quests": {},
+            "quests_date": null,
+            "reroll_available": true,
+            "reroll_used": false
+        },
+        "1119336350": {
+            "race": "elf",
+            "class": "rogue",
+            "gender": "male",
+            "name": "Леголас",
+            "xp": 128,
+            "level": 1,
+            "achievements": [
+                "days_1"
+            ],
+            "combo_count": 0,
+            "current_streak": 1,
+            "best_streak": 1,
+            "last_training_date": "2026-02-18",
+            "last_penalty_check": "2026-02-18",
+            "total_penalty_xp": 0,
+            "warnings_sent": [],
+            "created_at": "2026-02-18 01:06:41.746974",
+            "sets_today": {},
+            "daily_quests": {},
+            "quests_date": null,
+            "achievements_today": [
+                "days_1"
+            ],
+            "achievements_date": "2026-02-18",
+            "reroll_available": true,
+            "reroll_used": false
+        },
+        "1141771914": {
+            "race": "human",
+            "class": "warrior",
+            "gender": "male",
+            "name": "suru",
+            "xp": 0,
+            "level": 1,
+            "achievements": [],
+            "combo_count": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "last_training_date": null,
+            "last_penalty_check": "2026-02-19",
+            "total_penalty_xp": 0,
+            "warnings_sent": [],
+            "created_at": "2026-02-19 10:29:22.105120",
+            "sets_today": {},
+            "reroll_used": false,
+            "reroll_available": true,
+            "daily_quests": {
+                "lunges_15": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "abs_50_set": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "squats_50": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                },
+                "combo_mind_body": {
+                    "completed": false,
+                    "progress": 0,
+                    "claimed": false
+                }
+            },
+            "quests_date": "2026-02-19"
+        }
+    },
+    "banned": []
+}
